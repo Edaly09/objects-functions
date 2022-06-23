@@ -51,3 +51,27 @@
 // checkIfEven(747)
 // checkIfEven(67)
 
+// ## 04 - Compare
+
+// const compare = (x, y) => {
+
+//     if(x > y ){
+//         console.log("`x` is bigger")
+//     }
+//     else if(x < y){
+//         console.log("`y` is bigger")
+//     }
+//     else{
+//         console.log("both are the same")
+//     }
+
+// }
+
+// compare(4, 3)
+
+// compare(4, 6)
+
+// compare(4, 4)
+
+
+
