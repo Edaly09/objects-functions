@@ -75,3 +75,25 @@
 
 
 
+// ## 05 - Add Up
+
+const addUp = (num) =>{
+    let res = 0
+    for(let i = 1; i <= num; i++){
+
+    res = res + i
+
+    }
+    console.log(res)
+}
+addUp(12)
+
+// - Créez une fonction `addUp` qui reçoit un paramètre `num`
+// - À l'aide d'une boucle, ajouter les chiffres de 1 à `num`
+// - Appelez votre fonction avec le chiffre 12 et vérifiez que vous obtenez 78
+
+// ## 06 - Time
+
+// - Créez une fonction `format` qui reçoit un paramètre `num` qui représente des secondes
+// - Faites en sorte que la fonction retourne un format `heures : minutes : secondes`
+// - Appelez votre fonction avec l'argument `3700` et vérifiez que vous obtenez `1:1:40`
